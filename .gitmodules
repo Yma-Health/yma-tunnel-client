@@ -1,0 +1,3 @@
+[submodule "yma-anonymizer"]
+	path = yma-anonymizer
+	url = https://github.com/Yma-Health/yma-anonymizer

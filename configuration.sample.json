@@ -1,0 +1,18 @@
+{
+    "solution": {
+        "tunnels": {
+            "authToken": "REPLACE_WITH_YOUR_AUTH_TOKEN",
+            "tunnels": [
+                {
+                    "sgxMrSigner": "REPLACE",
+                    "sgxMrEnclave": "REPLACE"
+                }
+            ],
+            "site": {
+                "domain": "anonymizer.yourdomain.com",
+                "cert": "./certificate.crt",
+                "key": "./private.pem"
+            }
+        }
+    }
+}
